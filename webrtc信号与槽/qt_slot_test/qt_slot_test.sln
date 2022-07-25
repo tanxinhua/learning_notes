@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qt_slot_test", "qt_slot_test\qt_slot_test.vcxproj", "{45B1273B-E431-42C1-A243-65FA30BC5D58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B1273B-E431-42C1-A243-65FA30BC5D58}.Debug|x64.ActiveCfg = Debug|x64
+		{45B1273B-E431-42C1-A243-65FA30BC5D58}.Debug|x64.Build.0 = Debug|x64
+		{45B1273B-E431-42C1-A243-65FA30BC5D58}.Release|x64.ActiveCfg = Release|x64
+		{45B1273B-E431-42C1-A243-65FA30BC5D58}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2D16588-7126-491C-AFA4-B06B7E64EA6C}
+	EndGlobalSection
+EndGlobal
